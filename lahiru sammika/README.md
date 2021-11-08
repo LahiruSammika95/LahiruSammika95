@@ -7,7 +7,7 @@ I am good at programming in JavaScript, Java, Python, and C languages. In additi
  [![Linkedin Badge](https://img.shields.io/badge/-Lahiru_Sammika-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lahiru-sammika-perera/) [![npm Badge](https://img.shields.io/badge/-lahirusammika-e84393?style=flat&labelColor=e84393&logo=npm&logoColor=white)](https://www.npmjs.com/~lahiru-sammika) [![Mail Badge](https://img.shields.io/badge/-sammika-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:lahirusammikaperera@gmail.com)
 
 
-- paperclip: [My Resume/CV](https://github.com/LahiruSammika95/LahiruSammika95/resumes/lahiruSammika.pdf)
+- paperclip: [My Resume/CV](https://github.com/LahiruSammika95/LahiruSammika95/tree/master/lahiru%20sammika/resumes/lahiruSammika.pdf)
 - email: lahirusammikaperera@gmail.com
 
 
