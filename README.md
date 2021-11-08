@@ -30,6 +30,6 @@ I am good at programming in JavaScript, Java, Python, and C languages. In additi
 </details>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LahiruSammika95&theme=tokyonight?exclude_repo=rainfallPredictionProject2)](https://github.com/LahiruSammika95/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LahiruSammika95&theme=tokyonight?exclude_repo=movieRecommendationModel)](https://github.com/LahiruSammika95/github-readme-stats)
 
 
