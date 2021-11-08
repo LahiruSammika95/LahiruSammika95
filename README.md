@@ -25,7 +25,7 @@ I am good at programming in JavaScript, Java, Python, and C languages. In additi
 
 #### 1.1.5. Github Stats
 
-![Lahiru Sammika's github stats](https://github-readme-stats.vercel.app/api?username=LahiruSammika95&count_private=true&theme=tokyonight&hide=contribs,prs,stars)
+![Lahiru Sammika's github stats](https://github-readme-stats.vercel.app/api?username=LahiruSammika95&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
 
