@@ -1,6 +1,6 @@
 ## 1. Hi I'm Lahiru Sammika <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I am good at programming in JavaScript, Java, Python, and C languages. In addition, I'm good in React, React Native, Node.js, GraphQL, and Springboot frameworks
+I am good at programming in  Java, JavaScript, Python, and C languages. In addition, I'm good in Spring Boot, Kubernetes, Microservices, React, Node.js and GraphQL
 
 :mailbox: Reach me out!
 
